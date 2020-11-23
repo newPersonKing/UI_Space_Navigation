@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Space-Navigation-View-Fork.iml" filepath="$PROJECT_DIR$/Space-Navigation-View-Fork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Space-Navigation-View-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Space-Navigation-View-master.iml" group="Space-Navigation-View-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample/Space-Navigation-View-master-Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample/Space-Navigation-View-master-Sample.iml" group="Space-Navigation-View-master/Sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacelib/Space-Navigation-View-master-spacelib.iml" filepath="$PROJECT_DIR$/.idea/modules/spacelib/Space-Navigation-View-master-spacelib.iml" group="Space-Navigation-View-master/spacelib" />
+      <module fileurl="file://$PROJECT_DIR$/spacelib/spacelib.iml" filepath="$PROJECT_DIR$/spacelib/spacelib.iml" />
+    </modules>
+  </component>
+</project>
